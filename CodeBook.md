@@ -8,10 +8,10 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-# Variables
-## Identifiers
+# Identifiers
 Subjest: ID of the volunteers participated in this activity, from 1 to 30.
 Activity: Activity type including WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTARIS, SITTINGS, STANDING and LAYING.
+
 x:Variable features
 y:Activities correspoding to x
 
